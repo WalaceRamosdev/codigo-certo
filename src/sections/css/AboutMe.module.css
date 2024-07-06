@@ -1,0 +1,60 @@
+.aboutme {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 300px;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.aboutme .profile {
+    width: 250px;
+    margin-right: 50px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
+.aboutme .profile:hover{
+    transition: 0.3s;
+    content: url(../../imagens/perfilCL.svg);
+}
+
+.aboutme .information {
+    text-align: left;
+    line-height: 25px;
+}
+
+span {
+    font-weight: bold;
+    color: #e53939;
+}
+
+.aboutme h2 {
+    color: #e53939;
+}
+
+.aboutme p {
+    font-size: 20px;
+}
+
+@media(max-width: 468) {
+    .aboutme {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+    }
+
+    .aboutme .profile  {
+        margin: auto;
+        width: 200px;
+    }
+
+    .aboutme .information {
+        text-align: center;
+        margin: 15px;
+    }
+
+    
+}
+
