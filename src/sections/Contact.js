@@ -1,4 +1,4 @@
-import { FaInstagram, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaInstagram, FaGithub, FaLinkedin } from "react-icons/fa"
 import style from './css/Contact.module.css'
 
 export const Contact = () => {
