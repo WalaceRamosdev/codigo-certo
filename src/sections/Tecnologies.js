@@ -1,4 +1,4 @@
-import { MdOutlineSwipeRight } from "react-icons/md"
+import { MdOutlineSwipe } from "react-icons/md"
 
 import reactImg from '../imagens/react.png'
 import js from '../imagens/javascript-logo-1.png'
@@ -13,7 +13,7 @@ export const Tecnologies = () => {
             Principais Tecnologias
         </h1>
 
-        <p className={style.slide}><MdOutlineSwipeRight size={45}/></p>
+        <p className={style.slide}><MdOutlineSwipe size={45}/></p>
 
         <div className={style.tecnologies}><div>
             
