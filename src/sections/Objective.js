@@ -7,7 +7,7 @@ export const Objective = () => {
 
             <div className={style.descricao}>
                 <p>
-                    Meu principal objetivo é estar perto de quem deseja alcançar lugares mais altos, e foi através deste pequeno projeto que vi a oportunidade perfeita para compartilhar um pouco do que sei com todos aqueles que ama escrever códigos.
+                    Meu principal objetivo é estar perto de quem deseja alcançar lugares mais altos, e foi através deste pequeno projeto elaborado pela <strong>Código Certo</strong>, que vi a oportunidade perfeita para compartilhar um pouco do que sei com todos aqueles que amam escrever códigos.
                 </p>
             </div>
         </div>

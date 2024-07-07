@@ -7,11 +7,11 @@ export const Contact = () => {
             <ul>
                 <li>
                     <h1>Tel: </h1>
-                    <h2>(21) 9 9906-4502</h2>
+                    <h3>(21) 9 9906-4502</h3>
                 </li>
                 <li>
                     <h1>Email: </h1>
-                    <h2>contatowalace.dev@gmail.com</h2>
+                    <h3>contatowalace.dev@gmail.com</h3>
                 </li>
             </ul>
 

@@ -3,8 +3,7 @@
     align-items: center;
     justify-content: space-around;
     background-color: rgb(39,39,39);
-    width: 97%;
-    margin: auto;
+    margin: 0px 30px 100px 30px ;
 }
 
 .contact ul {
@@ -23,6 +22,7 @@
 
 .icon ul {
     display: flex;
+    padding: 0;
 }
 
 .icon li {
@@ -43,6 +43,10 @@
     .contact {
         display: flex;
         flex-direction: column;
+    }
+
+    .icon {
+        text-align: center;
     }
 
     .contact ul {

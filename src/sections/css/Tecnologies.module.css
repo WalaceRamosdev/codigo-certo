@@ -1,15 +1,20 @@
 .tecnologies {
     display: flex;
     justify-content: space-around;
-    
+    padding: 20px;
 }
 
 .titlePage {
     display: flex;
     margin-left: 10%;
     
-    
-    
+}
+
+strong {
+    background-color: rgba(0, 0, 0, 0.541);
+    color: white;
+    padding: 2px;
+    border-radius: 15px;
 }
 
 .slide {
@@ -17,15 +22,15 @@
 }
 
 .rsCard {
-    color: rgb(90, 255, 255);
+    color: rgb(97,218,251);
 }
 
 .jsCard {
-    color: yellow;
+    color: rgb(247,223,30);
 }
 
 .tsCard {
-    color: rgb(105, 159, 240);
+    color: rgb(45,121,199);
 }
 
 .tecnologies .card {
