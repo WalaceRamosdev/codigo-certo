@@ -37,7 +37,7 @@ span {
     font-size: 20px;
 }
 
-@media(max-width: 468px) {
+@media(max-width: 668px) {
     .aboutme {
         display: flex;
         flex-direction: column;

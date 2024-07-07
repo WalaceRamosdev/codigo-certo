@@ -62,7 +62,7 @@ img {
     padding-top: 0;
 }
 
-@media(max-width: 470px) {
+@media(max-width: 668px) {
 
     .slide {
         display: flex;

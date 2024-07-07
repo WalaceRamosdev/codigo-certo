@@ -39,7 +39,7 @@
     transition: 0.3s;
 }
 
-@media (max-width: 468px) {
+@media (max-width: 668px) {
     .contact {
         display: flex;
         flex-direction: column;

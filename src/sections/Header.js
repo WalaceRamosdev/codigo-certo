@@ -8,12 +8,10 @@ export const Header = () => {
     return (
         <header className={style.header}>
 
-                <ul>
-                    <li className={style.icon}>
-                        <FaReact size={50}/>
-                    </li>
-                </ul>
-                
+                <a href='/' className={style.icon}>
+                    <FaReact size={50}/>
+                </a>
+
                 <ul>
 
                     <li>
