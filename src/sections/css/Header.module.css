@@ -66,13 +66,17 @@
 
     .header {
         display: flex;
-        justify-content: center;
-        margin-left: 130px;
+        justify-content: center;        
+        text-align: center;
         padding-top: 40px;
         margin-bottom: 100px;
-        color: #e53939 !important;
+        
     }
 
+    .header .icon {
+        margin-left: 235px;
+        color: #e53939 !important;
+    }
     
     .header li {
         display: none;
