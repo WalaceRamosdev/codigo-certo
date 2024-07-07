@@ -7,7 +7,7 @@
     margin-bottom: 100px;
 }
 
-.aboutme .profile {
+.profile {
     width: 250px;
     margin-right: 50px;
     border-radius: 50%;
@@ -37,7 +37,7 @@ span {
     font-size: 20px;
 }
 
-@media(max-width: 468) {
+@media(max-width: 468px) {
     .aboutme {
         display: flex;
         flex-direction: column;

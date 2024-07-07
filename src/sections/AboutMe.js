@@ -6,7 +6,8 @@ export const AboutMe = () => {
     return (
         <main className={style.aboutme}>
 
-            <img src={perfilPB} className={style.profile}/>
+                <img src={perfilPB} className={style.profile}/>
+
 
                 <div className={style.information}>
                     <h2>
