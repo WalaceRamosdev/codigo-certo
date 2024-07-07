@@ -5,6 +5,7 @@ import { Tecnologies } from './sections/Tecnologies';
 import { Contact } from './sections/Contact';
 import { Objective } from './sections/Objective';
 import { Projects } from './sections/Projects';
+import { Rodape } from './sections/Rodape'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Objective/>
       <Projects/>
       <Contact/>
+      <Rodape/>
     </div>
   );
 }
