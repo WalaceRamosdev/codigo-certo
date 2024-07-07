@@ -21,6 +21,7 @@ export const Tecnologies = () => {
             </div>
 
             <div className={style.card}>
+                
                 <h1 className={style.rsCard} >
                     React.JS
                 </h1>
