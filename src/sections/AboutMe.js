@@ -17,7 +17,7 @@ export const AboutMe = () => {
                         Front-End Developer
                     </h1>
                     <p>
-                    Desenvolvendo interfaces e interações para sites e aplicativos. Utilizo <span>TypeScript</span> e <span>ReactJS</span> para garantir uma experiência intuitiva e funcional em diversos dispositivos e navegadores.
+                    Desenvolvendo interfaces e interações para sites e aplicativos. Utilizo <span>TypeScript</span> e <span>ReactJS</span> para garantir uma experiência intuitiva e fluída em diversos dispositivos e navegadores.
                     </p>
 
                     <Button text={'Instagram'} link={'https://www.instagram.com/walacedev.contato/'}/>
